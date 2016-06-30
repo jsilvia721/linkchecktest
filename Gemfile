@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in mygem.gemspec
+gem 'link-checker'
+
 gemspec
